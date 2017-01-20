@@ -1,0 +1,3 @@
+my first file in my first branch!
+This is to satisfy 1.3 git magic part 1
+
